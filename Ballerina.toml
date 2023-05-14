@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.4.1"
+  name = "greenhouse_integration"
+  org = "test2023"
+  version = "0.1.0"
+
